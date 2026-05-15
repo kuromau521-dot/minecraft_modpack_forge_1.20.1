@@ -1,13 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/appleskin.pw.toml"
-hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+file = "mods/amendments.pw.toml"
+hash = "420f60e542e731334fc62fc16a9945a60dfa8f6c5a647c71b2cf9217d50ea7f5"
 metafile = true
 
 [[files]]
-file = "mods/ashvehicle.pw.toml"
-hash = "76ca01d608690bfa4b61ae96360558766eaa7a4e60be28872adfc37690634eed"
+file = "mods/appleskin.pw.toml"
+hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
 
 [[files]]
@@ -111,11 +111,6 @@ hash = "5851bef35e786bfcdb837dfc380c4bd22c857434b2997235a551b3a0cf72d158"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
-metafile = true
-
-[[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 hash = "7cfc0e01f487f385b420af27e14dcdf1ce6f912c9ffecfa933fcdbb93c21e279"
 metafile = true
@@ -143,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer-forge.pw.toml"
+hash = "7fe39c6ca31974b4e57e4b08a174beb959933767623c70893064a282ae29a859"
 metafile = true
 
 [[files]]

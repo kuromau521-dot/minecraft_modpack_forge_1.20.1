@@ -1,4 +1,4 @@
-name = "MyModpackForge"
+name = "modpack_forge"
 author = "kuromau521"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "57a234528771fd7c5e0cd25ce5cbec965ef4caec5792b71e4bc7bab2d3321bec"
+hash = "c95594ab28786510d726f1b4f3412eb7a147644f79867f6894a8aeacbe1f41a5"
 
 [versions]
 forge = "47.4.20"
