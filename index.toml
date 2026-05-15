@@ -81,6 +81,11 @@ hash = "51e611da94be0833e3a3bf4872ccb013e82b531294a5c2913b754b5dcd6dbd6c"
 metafile = true
 
 [[files]]
+file = "mods/explosion-overhaul-a-new-level-of-destruction.pw.toml"
+hash = "60ee868ef8bfdf321383193eb08b1abb39c25671c4f6b1b69486cce5cc93e8e4"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "d7139e5db4b5a9b5d80330854bb23ce2cd197009b6d8e3636aa017434066b830"
 metafile = true
