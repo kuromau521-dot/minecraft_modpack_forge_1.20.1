@@ -151,6 +151,11 @@ hash = "806d1c4a3c10328b139332a5199314612301566a91e484cddb06a00bd508ffec"
 metafile = true
 
 [[files]]
+file = "mods/sbw-vintage-vehicle-pack.pw.toml"
+hash = "af4e682df7b56ad75b607194a760fefb2cdaf160a57c2765c201926615966c5d"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
 metafile = true
@@ -192,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/superb-warfare.pw.toml"
-hash = "d391cd3e027f68984901e1a9fc55c7b7a8d98dafc64955adf37f396ef6690063"
+hash = "318508586bcc781c6405b1c64f22612840aeb00a0148e5d6d4320553756736be"
 metafile = true
 
 [[files]]
