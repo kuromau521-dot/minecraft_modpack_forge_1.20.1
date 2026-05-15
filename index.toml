@@ -16,6 +16,11 @@ hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
 metafile = true
 
 [[files]]
+file = "mods/brimm-armors-tactical-military-armors.pw.toml"
+hash = "9f6d9272c529186ed31c73344dd9b170a4e0c14a7a575646cf121bc59d0882ec"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
 metafile = true
@@ -96,11 +101,6 @@ hash = "62ef7e92478035b77e996189984e4749b2d876ed0a389977a2670a28f105bfd2"
 metafile = true
 
 [[files]]
-file = "mods/fracture-point.pw.toml"
-hash = "c8524000b6927510542dceec5e3d89a57f94b0e8852a6cef8d8de35399db6e42"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "a1dba016bfd85fbabc5ff7c78f0302d3dd5b20026842231d6422947a7bb5f6f0"
 metafile = true
@@ -136,6 +136,16 @@ hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
 metafile = true
 
 [[files]]
+file = "mods/marbleds-arsenal.pw.toml"
+hash = "121de54b0658e2c715d90fcdbc2fbd5ab1a200bb5353671760e9d9bf9cb91ab5"
+metafile = true
+
+[[files]]
+file = "mods/miscellaneous-metals.pw.toml"
+hash = "237cb9e4e3eb435eb4e0d9f02f43f14d8887bf6febeaed95c01612839b93c90c"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
@@ -143,11 +153,6 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer-forge.pw.toml"
 hash = "7fe39c6ca31974b4e57e4b08a174beb959933767623c70893064a282ae29a859"
-metafile = true
-
-[[files]]
-file = "mods/recon-omega.pw.toml"
-hash = "806d1c4a3c10328b139332a5199314612301566a91e484cddb06a00bd508ffec"
 metafile = true
 
 [[files]]
