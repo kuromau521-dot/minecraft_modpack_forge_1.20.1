@@ -1,0 +1,13 @@
+name = "Countered's Settlement Roads"
+filename = "settlement-roads-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4544e81cf391ffd39468ee9fe64958263af6929"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6558962
+project-id = 1140708

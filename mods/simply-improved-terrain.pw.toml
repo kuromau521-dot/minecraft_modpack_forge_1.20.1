@@ -1,0 +1,13 @@
+name = "Simply Improved Terrain"
+filename = "Simply-Improved-Terrain-Forge-1.20.1-0.5.6.0-alpha.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f47068dbf3af72be6ca5ec23c9a93d8f537cf4ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6105729
+project-id = 472872
